@@ -1,0 +1,24 @@
+// Colors
+//Primary Colors
+$soft_cyan: hsl(174, 77%, 80%);
+$str_cyan: hsl(174, 86%, 45%);
+$lt_grayish_red: hsl(14, 92%, 95%);
+$lt_red: hsl(15, 100%, 70%);
+$pale_blue: hsl(226, 100%, 87%);
+
+//Neutral Colors
+$white: hsl(0, 0%, 100%);
+$very_pale_blue: hsl(230, 100%, 99%); 
+$lt_grayish_blue: hsl(224, 65%, 95%); //empty slider bar
+$lt_grayish_blue2: hsl(223, 50%, 87%); //toggle background
+$grayish_blue: hsl(225, 20%, 60%);
+$dk_desat_blue: hsl(227, 35%, 25%);
+
+//Fonts
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
+//Weights
+$reg: 600;
+$bold: 800;
